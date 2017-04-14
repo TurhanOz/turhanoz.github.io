@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+name:             Turhan OZ Blog
+title:            Turhan OZ
+tagline:          'Turhan Blog'
+description:      'Entrepreneur, Developer, Investor, Growth Hacker, Knowledge sharer. Learn & Improve. unconditional Love to Life. Eclectic by nature.'
+url:              'http://turhanoz.com'
+baseurl:          /
+
+author:
+  name:           'Turhan OZ'
+  url:            'https://twitter.com/TurhanOz'
+
+paginate:         5
+future:           true
+show_drafts:      true
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           'https://github.com/turhanoz/turhanoz.github.io'
