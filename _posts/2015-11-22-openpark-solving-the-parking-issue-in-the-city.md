@@ -1,3 +1,8 @@
+---
+layout: post
+title: "OpenPark - solving the parking issue in the city"
+comments: true
+---
 Recently, I was the studying the Beacon technology, and more precisely the Eddystone format.
 
 Beacons are cheap devices that could be deployed anywhere that has a meaning for your business, for the city but even more importantly, for the user. \(If you want to know more about beacons, I gave a talk at DroidconParis in november 2015, so [check out the video](https://speakerdeck.com/turhanoz/eddystone-droidcon-paris-2015)\).
